@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: rgb(179, 210, 211);
+    background-color: rgb(255, 255, 255);
 }
 div {
     padding: 10x;
@@ -17,6 +17,11 @@ button{
     box-shadow: inset;
     width: 100px;
     height:30px;
+}
+
+.but :hover{
+    background-color:black  transparent;
+    color: rgb(55, 109, 20);
 }
 
 h1{
@@ -43,11 +48,13 @@ img{
     width: 400px;
     height: auto;
     border-radius:20px;
-    padding-bottom: 50px;
+    margin-bottom: 30px;
     
 }
 
 #footer {
-    background-color: #8f8e8f;
+    margin: 0;
+    background-color: #c9c7c9;
     padding: 20px;
+    text-align: center;
   }

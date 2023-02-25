@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(255, 255, 25);
+    background-color: rgb(255, 255, 255);
 }
 img{
     width: 300px;
@@ -39,3 +39,9 @@ p{
     font-size: larger;
     padding: 8px;
 }
+
+#footer {
+    background-color: #a8a8a8;
+    padding: 20px;
+    text-align: center;
+  }
